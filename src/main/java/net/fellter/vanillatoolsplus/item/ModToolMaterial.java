@@ -1,7 +1,6 @@
 package net.fellter.vanillatoolsplus.item;
 
 import net.fabricmc.yarn.constants.MiningLevels;
-import net.fellter.vanillablocksplus.block.ModBlocks;
 import net.minecraft.block.Blocks;
 import net.minecraft.item.ToolMaterial;
 import net.minecraft.recipe.Ingredient;
@@ -9,7 +8,7 @@ import net.minecraft.recipe.Ingredient;
 import java.util.function.Supplier;
 
 public enum ModToolMaterial implements ToolMaterial {
-    OAK_WOOD(MiningLevels.WOOD, 100, 2.0f, 2.0f, 10, () -> Ingredient.ofItems(Blocks.OAK_WOOD));
+    OAK_WOOD(MiningLevels.WOOD, 59, 2.0f, 0.0f, 15, () -> Ingredient.ofItems(Blocks.OAK_WOOD));
 
     private final int miningLevel;
     private final int itemDurability;
