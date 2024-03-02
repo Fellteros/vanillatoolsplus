@@ -1,7 +1,7 @@
 package net.fellter.vanillatoolsplus.item;
 
 import net.fabricmc.fabric.api.item.v1.FabricItemSettings;
-import net.fellter.vanillablocksplus.VanillaBlocksPlus;
+import net.fellter.vanillatoolsplus.VanillaToolsPlus;
 import net.minecraft.item.*;
 import net.minecraft.registry.Registries;
 import net.minecraft.registry.Registry;
@@ -31,11 +31,11 @@ public class ModItems {
     public static final Item VTP_TITLE = registerItem("vtp_title", new Item(new FabricItemSettings()));
 
     private static Item registerItem(String name, Item item) {
-        return Registry.register(Registries.ITEM, new Identifier(VanillaBlocksPlus.MOD_ID, name), item);
+        return Registry.register(Registries.ITEM, new Identifier(VanillaToolsPlus.MOD_ID, name), item);
     }
 
     public static void registerModItems() {
-        VanillaBlocksPlus.LOGGER.info("Registering Mod Items for " + VanillaBlocksPlus.MOD_ID);
+        VanillaToolsPlus.LOGGER.info("Registering Mod Items for " + VanillaToolsPlus.MOD_ID);
 
     }
 }

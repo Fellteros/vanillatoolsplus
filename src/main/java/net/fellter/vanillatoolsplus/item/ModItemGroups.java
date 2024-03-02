@@ -1,7 +1,6 @@
 package net.fellter.vanillatoolsplus.item;
 
 import net.fabricmc.fabric.api.itemgroup.v1.FabricItemGroup;
-import net.fellter.vanillablocksplus.VanillaBlocksPlus;
 import net.fellter.vanillatoolsplus.VanillaToolsPlus;
 import net.minecraft.item.ItemGroup;
 import net.minecraft.item.ItemStack;
@@ -24,6 +23,6 @@ public class ModItemGroups {
                     }).build());
 
     public static void registerItemGroups() {
-        VanillaBlocksPlus.LOGGER.info("Registering Mod Item Groups for " + VanillaBlocksPlus.MOD_ID);
+        VanillaToolsPlus.LOGGER.info("Registering Mod Item Groups for " + VanillaToolsPlus.MOD_ID);
     }
 }
