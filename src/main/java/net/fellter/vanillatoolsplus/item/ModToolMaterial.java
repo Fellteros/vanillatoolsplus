@@ -8,7 +8,9 @@ import net.minecraft.recipe.Ingredient;
 import java.util.function.Supplier;
 
 public enum ModToolMaterial implements ToolMaterial {
-    OAK_WOOD(MiningLevels.WOOD, 59, 2.0f, 0.0f, 15, () -> Ingredient.ofItems(Blocks.OAK_WOOD));
+
+    //materials
+    OAK_WOOD(MiningLevels.WOOD, 84, 2.2f, 0.0f, 15, () -> Ingredient.ofItems(Blocks.OAK_WOOD));
 
     private final int miningLevel;
     private final int itemDurability;
