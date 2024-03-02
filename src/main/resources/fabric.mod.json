@@ -1,0 +1,40 @@
+{
+	"schemaVersion": 1,
+	"id": "vanillatoolsplus",
+	"version": "${version}",
+	"name": "VanillaToolsPlus",
+	"description": "Mod adding all tool variants to vanilla blocks",
+	"authors": [
+		"Fellter"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/vanillatoolsplus/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.fellter.vanillatoolsplus.VanillaToolsPlus"
+		],
+		"client": [
+			"net.fellter.vanillatoolsplus.VanillaToolsPlusClient"
+		],
+		"fabric-datagen": [
+			"net.fellter.vanillatoolsplus.VanillaToolsPlusDataGenerator"
+		]
+	},
+	"mixins": [
+		"vanillatoolsplus.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.15.7",
+		"minecraft": "~1.20.1",
+		"java": ">=17",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}
