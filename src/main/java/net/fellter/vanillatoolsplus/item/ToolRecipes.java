@@ -7,7 +7,7 @@ import net.minecraft.item.Items;
 import net.minecraft.recipe.Ingredient;
 import net.minecraft.recipe.book.RecipeCategory;
 
-public class ModRecipes {
+public class ToolRecipes {
 
 
     public static CraftingRecipeJsonBuilder createAxeRecipe(ItemConvertible output, Ingredient input) {
