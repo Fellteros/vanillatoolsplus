@@ -5,5 +5,35 @@
   "item.vanillatoolsplus.oak_wood_shovel": "Oak Wood Shovel",
   "item.vanillatoolsplus.oak_wood_hoe": "Oak Wood Hoe",
 
+  "item.vanillatoolsplus.str_oak_wood_pickaxe": "Stripped Oak Wood Pickaxe",
+  "item.vanillatoolsplus.str_oak_wood_axe": "Stripped Oak Wood Axe",
+  "item.vanillatoolsplus.str_oak_wood_sword": "Stripped Oak Wood Sword",
+  "item.vanillatoolsplus.str_oak_wood_shovel": "Stripped Oak Wood Shovel",
+  "item.vanillatoolsplus.str_oak_wood_hoe": "Stripped Oak Wood Hoe",
+
+  "item.vanillatoolsplus.spruce_wood_pickaxe": "Spruce Wood Pickaxe",
+  "item.vanillatoolsplus.spruce_wood_axe": "Spruce Wood Axe",
+  "item.vanillatoolsplus.spruce_wood_sword": "Spruce Wood Sword",
+  "item.vanillatoolsplus.spruce_wood_shovel": "Spruce Wood Shovel",
+  "item.vanillatoolsplus.spruce_wood_hoe": "Spruce Wood Hoe",
+
+  "item.vanillatoolsplus.str_spruce_wood_pickaxe": "Stripped Spruce Wood Pickaxe",
+  "item.vanillatoolsplus.str_spruce_wood_axe": "Stripped Spruce Wood Axe",
+  "item.vanillatoolsplus.str_spruce_wood_sword": "Stripped Spruce Wood Sword",
+  "item.vanillatoolsplus.str_spruce_wood_shovel": "Stripped Spruce Wood Shovel",
+  "item.vanillatoolsplus.str_spruce_wood_hoe": "Stripped Spruce Wood Hoe",
+  
+  "item.vanillatoolsplus.birch_wood_pickaxe": "Birch Wood Pickaxe",
+  "item.vanillatoolsplus.birch_wood_axe": "Birch Wood Axe",
+  "item.vanillatoolsplus.birch_wood_sword": "Birch Wood Sword",
+  "item.vanillatoolsplus.birch_wood_shovel": "Birch Wood Shovel",
+  "item.vanillatoolsplus.birch_wood_hoe": "Birch Wood Hoe",
+
+  "item.vanillatoolsplus.str_birch_wood_pickaxe": "Stripped Birch Wood Pickaxe",
+  "item.vanillatoolsplus.str_birch_wood_axe": "Stripped Birch Wood Axe",
+  "item.vanillatoolsplus.str_birch_wood_sword": "Stripped Birch Wood Sword",
+  "item.vanillatoolsplus.str_birch_wood_shovel": "Stripped Birch Wood Shovel",
+  "item.vanillatoolsplus.str_birch_wood_hoe": "Stripped Birch Wood Hoe",
+
   "itemgroup.vanillatoolsplus": "Vanilla+ Tools"
 }

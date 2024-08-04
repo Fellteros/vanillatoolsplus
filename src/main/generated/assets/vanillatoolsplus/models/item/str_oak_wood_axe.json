@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "vanillatoolsplus:item/str_oak_wood_axe"
+  }
+}

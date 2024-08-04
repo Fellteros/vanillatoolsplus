@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "vanillatoolsplus:item/str_spruce_wood_hoe"
+  }
+}

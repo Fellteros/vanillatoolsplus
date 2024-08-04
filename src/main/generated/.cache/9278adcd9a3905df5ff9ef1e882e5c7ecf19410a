@@ -1,1 +1,6 @@
-// 1.20.1	2024-03-03T09:49:22.2261264	VanillaToolsPlus/Tags for minecraft:item
+// 1.21	2024-08-04T17:39:20.2552585	VanillaToolsPlus/Tags for minecraft:item
+7fd7cf1eae84f30b7c666a2eb249895e89693c8a data\minecraft\tags\item\shovels.json
+046836213ae293b7cb1416ce44769e2b9f67c93f data\minecraft\tags\item\hoes.json
+663f1e15bab101b1080bdaa198d7b2a357ce5353 data\minecraft\tags\item\pickaxes.json
+7cea1495e68ddec8eb3c6a255b8bceba41055eab data\minecraft\tags\item\axes.json
+7fb608eb40565ea674b3c54e7de5051e59767dbb data\minecraft\tags\item\swords.json

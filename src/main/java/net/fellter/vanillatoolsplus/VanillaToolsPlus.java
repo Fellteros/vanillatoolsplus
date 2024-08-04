@@ -1,7 +1,6 @@
 package net.fellter.vanillatoolsplus;
 
 import net.fabricmc.api.ModInitializer;
-
 import net.fellter.vanillatoolsplus.item.ModItemGroups;
 import net.fellter.vanillatoolsplus.item.ModItems;
 import org.slf4j.Logger;
